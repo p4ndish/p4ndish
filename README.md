@@ -2,6 +2,7 @@
   <strong>Hi there 👋, Welcome to my workshop 🙂</strong><hr>
    🎯 <strong> I Am, <ins> Software Developer </ins>  and <ins>Security Engineer</ins> </strong>
 </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=p4ndish&label=Profile%20views&color=0e75b6&style=flat" alt="p4ndish" /> </p><p align="left"> <a href="https://twitter.com/pandaishonet" target="blank"><img src="https://img.shields.io/twitter/follow/p4ndish?logo=twitter&style=for-the-badge" alt="p4ndish" /></a> </p>
 
 <!--
 **p4ndish/p4ndish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
